@@ -64,14 +64,14 @@ footer{
 div.pics2{
     position: absolute;
     border: thick double #32a1ce;
-    top: 50%;
+    top: 60%;
     left: 30%;
     transform: translate(-50%, -50%);
 }
 div.pics{
     position: absolute;
     border: thick double #32a1ce;
-    top: 50%;
+    top: 60%;
     left: 70%;
     transform: translate(-50%, -50%);
   
